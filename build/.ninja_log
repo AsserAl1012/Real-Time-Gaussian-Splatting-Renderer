@@ -1,0 +1,9 @@
+# ninja log v5
+6	40	7615873160553139	CMakeFiles/GaussianSplattingRenderer.dir/src/renderer.cpp.obj	9fd1f35d9aee817d
+8	381	7615873163969808	CMakeFiles/GaussianSplattingRenderer.dir/src/model_loader.cpp.obj	803fbb6ba2b868dc
+4	1011	7615873170258032	CMakeFiles/GaussianSplattingRenderer.dir/src/main.cpp.obj	faa0d19f75f691e9
+1013	1574	7615873171100674	GaussianSplattingRenderer.exe	f1c2dd7a6667929d
+18	1026	7615876350373490	CMakeFiles/GaussianSplattingRenderer.dir/src/main.cpp.obj	faa0d19f75f691e9
+1026	1546	7615876351310898	GaussianSplattingRenderer.exe	f1c2dd7a6667929d
+18	1067	7615878869025155	CMakeFiles/GaussianSplattingRenderer.dir/src/main.cpp.obj	faa0d19f75f691e9
+1068	1663	7615878869925160	GaussianSplattingRenderer.exe	f1c2dd7a6667929d

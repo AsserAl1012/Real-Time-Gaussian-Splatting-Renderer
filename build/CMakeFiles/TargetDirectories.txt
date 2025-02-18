@@ -1,0 +1,3 @@
+C:/Users/axrx/OneDrive/Desktop/Main/clones/Real-Time-Gaussian-Splatting-Renderer/build/CMakeFiles/GaussianSplattingRenderer.dir
+C:/Users/axrx/OneDrive/Desktop/Main/clones/Real-Time-Gaussian-Splatting-Renderer/build/CMakeFiles/edit_cache.dir
+C:/Users/axrx/OneDrive/Desktop/Main/clones/Real-Time-Gaussian-Splatting-Renderer/build/CMakeFiles/rebuild_cache.dir
